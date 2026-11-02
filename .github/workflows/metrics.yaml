@@ -18,7 +18,7 @@ jobs:
           filename: metrics/metrics.left.svg
 
           # Options
-          user: hashisato
+          user: xilrv
           template: classic
           base: header, activity, community
           config_timezone: Asia/Tokyo
@@ -36,7 +36,7 @@ jobs:
           plugin_languages_recent_days: 365
           plugin_languages_recent_load: 1000
           plugin_languages_sections: most-used
-          commits_authoring: hashisato
+          commits_authoring: xilrv
           config_order: base.header, base.activity+community, isocalendar, followup, languages
 
       - name: right profile 
@@ -46,7 +46,7 @@ jobs:
           filename: metrics/metrics.right.svg
 
           # Options
-          user: hashisato
+          user: xilrv
           template: classic
           base: ""
           config_padding: 0, 0
