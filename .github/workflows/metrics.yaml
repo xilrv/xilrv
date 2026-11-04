@@ -35,7 +35,7 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_recent_days: 140
           plugin_languages_recent_load: 1000
-          plugin_languages_sections: recently-used # most-used
+          plugin_languages_sections: most-used # recently-used
           commits_authoring: xilrv
           config_order: base.header, base.activity+community, isocalendar, followup, languages
 
