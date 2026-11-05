@@ -1,13 +1,20 @@
-<table width="100%" align="center">
-  <tr>
-    <td width="50%" align="left">
-      <img src="https://raw.githubusercontent.com/hashisato/hashisato/refs/heads/main/metrics/metrics.left.svg" width="100%" />
-    </td>
-    <td width="50%" align="right">
-      <img src="https://raw.githubusercontent.com/hashisato/hashisato/refs/heads/main/metrics/metrics.right.svg" width="100%" />
-    </td>
-  </tr>
-</table>
+<h1 align="center">
+hashisato
+</h1>
+<details>
+  <summary>📊 GitHub Metrics</summary>
+  <br>
+  <table width="100%" align="center">
+    <tr>
+      <td width="50%" align="left">
+        <img src="https://raw.githubusercontent.com/hashisato/hashisato/refs/heads/main/metrics/metrics.left.svg" width="100%" />
+      </td>
+      <td width="50%" align="right">
+        <img src="https://raw.githubusercontent.com/hashisato/hashisato/refs/heads/main/metrics/metrics.right.svg" width="100%" />
+      </td>
+    </tr>
+  </table>
+</details>
 
 <!--
 ## Hi there 👋
