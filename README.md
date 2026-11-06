@@ -1,6 +1,7 @@
 <h1 align="center">
 hashisato
 </h1>
+<p>hi there!</p>
 <details>
   <summary>📊 GitHub Metrics</summary>
   <br>
